@@ -8,8 +8,8 @@ Maker Media GmbH und c't, Heise Zeitschriften Verlag
 
 ### Laufmaschine aus dem Lasercutter
 
-Ein Roboter, der weder Räder noch Ketten nutzt und auch nicht versucht, auf zwei Beinen zu laufen: Inspiriert von kinetischen Skulpturen des Künstlers Theo Jansen bewegt er sich durch eine einzigartige Mechanik aus zwölf Beinen. Für den Nachbau benötigt man lasergeschnittene Holzteile, Schrauben aus dem Baumarkt und einige Stunden Konzentration.
+Ein Roboter, der weder RÃ¤der noch Ketten nutzt und auch nicht versucht, auf zwei Beinen zu laufen: Inspiriert von kinetischen Skulpturen des KÃ¼nstlers Theo Jansen bewegt er sich durch eine einzigartige Mechanik aus zwÃ¶lf Beinen. FÃ¼r den Nachbau benÃ¶tigt man lasergeschnittene Holzteile, Schrauben aus dem Baumarkt und einige Stunden Konzentration.
 
-![Picture](https://github.com/heise/Vektorstrahlantrieb/blob/master/FertigerGleiter.JPG)
+![Picture](https://github.com/heise/Strandbeest/blob/master/Strandbeest.JPG)
 
-Den vollständigen Artikel mit der Bauanleitung unter dem Titel "Der Zwölfender" gibt es in der **[Make-Ausgabe 1/16 ab Seite 16](https://www.heise.de/select/make/2016/1/1456381329021210)** zu lesen. Hier gibt es die Schnittvorlagen für das Strandbeest in Version 1.5 zum Download. 
+Den vollstÃ¤ndigen Artikel mit der Bauanleitung unter dem Titel "Der ZwÃ¶lfender" gibt es in der **[Make-Ausgabe 1/16 ab Seite 16](https://www.heise.de/select/make/2016/1/1456381329021210)** zu lesen. Hier gibt es die Schnittvorlagen fÃ¼r das Strandbeest in Version 1.5 zum Download. 

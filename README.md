@@ -12,4 +12,4 @@ Ein Roboter, der weder Räder noch Ketten nutzt und auch nicht versucht, auf zwe
 
 ![Picture](https://github.com/MakeMagazinDE/Strandbeest/blob/master/strandbeest.jpg)
 
-Den vollständigen Artikel mit der Bauanleitung unter dem Titel "Der Zwölfender" gibt es in der **[Make-Ausgabe 1/16 ab Seite 16](https://www.heise.de/select/make/2016/1/1456381329021210)** zu lesen. Hier gibt es die Schnittvorlagen für das Strandbeest in Version 1.5 zum Download. 
+Den vollständigen Artikel mit der Bauanleitung unter dem Titel "Der Zwölfender" gibt es in der **[Make-Ausgabe 1/16 ab Seite 16](https://www.heise.de/select/make/2016/1/1456381329021210)** zu lesen. Hier gibt es die Schnittvorlagen für das Strandbeest in Version 1.5 in verschiedenen Dateiformaten zum Download. 
